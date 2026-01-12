@@ -100,14 +100,14 @@ animarEstrellas();
 
 // APODOS
 const apodos = [
-    "amor ❤️",
-    "cielo ✨",
-    "gordita 🥰",
-    "princesa 👑",
-    "chaparrita 💕",
+    "Niña ❤️",
+    "Linda ✨",
+    "Estoy orgulloso de ti 🥰",
+    " Eres una reina👑",
+    "eres fuerte  💕",
     "bonita 💖",
-    "mi bebé 💗",
-    "mi chula 💞"
+    "Chula 💗",
+    " 💞"
 ];
 
 function crearTexto(){
